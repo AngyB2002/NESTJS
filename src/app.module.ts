@@ -7,10 +7,12 @@ import { GetIndividualController } from './get-individual/get-individual.control
 import { GetIndividualService } from './get-individual/get-individual.service';
 import { TracksController } from './tracks/tracks.controller';
 import { TracksService } from './tracks/tracks.service';
+import { CrudSeriesController } from './crud-series/crud-series.controller';
+import { CrudSeriesService } from './crud-series/crud-series.service';
 
 @Module({
   imports: [],
-  controllers: [AppController, TracksManagerController, GetIndividualController, TracksController],
-  providers: [AppService, TracksManagerService, GetIndividualService, TracksService],
+  controllers: [AppController, TracksManagerController, GetIndividualController, TracksController, CrudSeriesController],
+  providers: [AppService, TracksManagerService, GetIndividualService, TracksService, CrudSeriesService],
 })
 export class AppModule {}

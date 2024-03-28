@@ -1,0 +1,174 @@
+{
+    "series": [
+        {
+            "id": "1",
+            "titulo": "Breaking Bad",
+            "genero": [
+                "Drama",
+                "Crimen",
+                "Thriller"
+            ],
+            "estreno": 2008,
+            "calificacion": 9.5,
+            "sinopsis": "Un profesor de química con cáncer se convierte en un fabricante de metanfetamina para asegurar el futuro financiero de su familia, lo que lo lleva a un mundo de crimen, peligro y consecuencias inesperadas.",
+            "reparto": [
+                "Bryan Cranston",
+                "Aaron Paul",
+                "Anna Gunn"
+            ]
+        },
+        {
+            "id": "2",
+            "titulo": "The Crown",
+            "genero": [
+                "Drama",
+                "Biografía",
+                "Histórico"
+            ],
+            "estreno": 2016,
+            "calificacion": 8.7,
+            "sinopsis": "Una mirada a la vida de la reina Isabel II y los eventos que marcaron la segunda mitad del siglo XX desde su coronación.",
+            "reparto": [
+                "Claire Foy",
+                "Matt Smith",
+                "Olivia Colman"
+            ]
+        },
+        {
+            "id": "3",
+            "titulo": "La Casa de Papel",
+            "genero": [
+                "Drama",
+                "Crimen",
+                "Suspenso"
+            ],
+            "estreno": 2017,
+            "calificacion": 8.3,
+            "sinopsis": "Un misterioso hombre conocido como 'El Profesor' recluta a ocho personas con habilidades únicas para llevar a cabo un gran atraco a la Casa de la Moneda de España.",
+            "reparto": [
+                "Úrsula Corberó",
+                "Álvaro Morte",
+                "Itziar Ituño"
+            ]
+        },
+        {
+            "id": "4",
+            "titulo": "Dark",
+            "genero": [
+                "Ciencia ficción",
+                "Drama",
+                "Misterio"
+            ],
+            "estreno": 2017,
+            "calificacion": 8.8,
+            "sinopsis": "En una pequeña ciudad alemana, la desaparición de dos niños expone las relaciones fracturadas, las vidas dobles y el oscuro pasado del lugar.",
+            "reparto": [
+                "Louis Hofmann",
+                "Karoline Eichhorn",
+                "Lisa Vicari"
+            ]
+        },
+        {
+            "id": "5",
+            "titulo": "Élite",
+            "genero": [
+                "Drama",
+                "Crimen",
+                "Misterio"
+            ],
+            "estreno": 2018,
+            "calificacion": 7.6,
+            "sinopsis": "Tres adolescentes de clase trabajadora son admitidos en una exclusiva escuela privada en España, desencadenando una serie de eventos que culminan en un asesinato.",
+            "reparto": [
+                "María Pedraza",
+                "Itzan Escamilla",
+                "Miguel Bernardeau"
+            ]
+        },
+        {
+            "id": "6",
+            "titulo": "Black Mirror",
+            "genero": [
+                "Ciencia ficción",
+                "Drama",
+                "Thriller"
+            ],
+            "estreno": 2011,
+            "calificacion": 8.8,
+            "sinopsis": "Una serie antológica que explora la paranoia contemporánea a medida que la tecnología transforma la vida humana de maneras inesperadas y a menudo aterradoras.",
+            "reparto": [
+                "Daniel Lapaine",
+                "Hannah John-Kamen",
+                "Michaela Coel"
+            ]
+        },
+        {
+            "id": "7",
+            "titulo": "Narcos",
+            "genero": [
+                "Drama",
+                "Crimen",
+                "Biografía"
+            ],
+            "estreno": 2015,
+            "calificacion": 8.8,
+            "sinopsis": "La historia real de los violentos cárteles de la droga en Colombia se cuenta a través de los ojos de los agentes de la ley y los narcotraficantes que luchan por el control.",
+            "reparto": [
+                "Wagner Moura",
+                "Boyd Holbrook",
+                "Pedro Pascal"
+            ]
+        },
+        {
+            "id": "8",
+            "titulo": "Money Heist",
+            "genero": [
+                "Drama",
+                "Crimen",
+                "Suspenso"
+            ],
+            "estreno": 2017,
+            "calificacion": 8.3,
+            "sinopsis": "Un grupo de ladrones audaces lleva a cabo un atraco meticulosamente planeado en la Fábrica Nacional de Moneda y Timbre de España, mientras un misterioso líder manipula la situación desde fuera.",
+            "reparto": [
+                "Úrsula Corberó",
+                "Álvaro Morte",
+                "Itziar Ituño"
+            ]
+        },
+        {
+            "id": "9",
+            "titulo": "Ozark",
+            "genero": [
+                "Drama",
+                "Crimen",
+                "Suspenso"
+            ],
+            "estreno": 2017,
+            "calificacion": 8.4,
+            "sinopsis": "Un asesor financiero arrastra a su familia de Chicago a los lagos Ozark de Missouri para lavar 500 millones de dólares en cinco años y tranquilizar a un jefe del narcotráfico.",
+            "reparto": [
+                "Jason Bateman",
+                "Laura Linney",
+                "Sofia Hublitz"
+            ]
+        },
+        {
+            "id": "10",
+            "titulo": "The Witcher",
+            "genero": [
+                "Fantasía",
+                "Aventura",
+                "Drama"
+            ],
+            "estreno": 2019,
+            "calificacion": 8.2,
+            "sinopsis": "Geralt de Rivia, un cazador de monstruos solitario, lucha por encontrar su lugar en un mundo donde las personas son a menudo más malvadas que las bestias.",
+            "reparto": [
+                "Henry Cavill",
+                "Anya Chalotra",
+                "Freya Allan"
+            ]
+        }
+    ]
+}
