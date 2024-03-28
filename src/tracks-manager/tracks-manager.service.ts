@@ -72,7 +72,7 @@ export const tracks: iTrack[] = [
 
 @Injectable()
 export class TracksManagerService {
-    getTracks(): any{
-        return tracks;
-    }
+  getTracks(): iTrack[]{
+    return tracks;
+  }
 }
